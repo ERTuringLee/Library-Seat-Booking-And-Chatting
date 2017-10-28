@@ -1,4 +1,4 @@
-# 2015-1 OOP Term project(Pf.Han Jeong Hee)
+# 2015-1 Object Oriented Programming Term Project(Pf.Han Jeong Hee)
 
 - 서버와 클라이언트간의 통신을 통해 자리를 예약 
 - 병렬 쓰레딩을 이용하여 하나의 서버와 여럿의 클라이언트간의 통신을 이용, 여러 학생이 자리를 예약 및 채팅 가능. 
